@@ -1,0 +1,54 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: d0c25c20-4924-07ee-324c-d044def3e25f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: ac374bad-ba45-d566-dd86-900590768636
+  name: When There Is No Textbook for What You Want to Teach
+  pageRef: /pages/instructor-insights/when-there-is-no-textbook-for-what-you-want-to-teach
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 30
+- identifier: 40c7d220-c435-49d3-9f90-12823f1edf36
+  name: Encouraging Active Participation
+  pageRef: /pages/instructor-insights/encouraging-active-participation
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 40
+- identifier: 1118ee2f-7481-623a-d285-5832662d515c
+  name: Using Video and Native Speakers to Provide Feedback
+  pageRef: /pages/instructor-insights/using-video-and-native-speakers-to-provide-feedback
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 50
+- identifier: ae0ece96-88fd-ec77-0632-968c3fecf666
+  name: 'Language Models: The Role of Guest Speakers'
+  pageRef: /pages/instructor-insights/language-models-the-role-of-guest-speakers
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 60
+- identifier: 1d53c84a-78da-e397-83df-6123ed7a3ca1
+  name: Using Hot Button Issues to Develop Critical Thinking Skills
+  pageRef: /pages/instructor-insights/using-hot-button-issues-to-develop-critical-thinking-skills
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 70
+- identifier: 73d29b69-4214-3dfe-66c9-5a4f4bba2381
+  name: Engaging in Reflective Practice
+  pageRef: /pages/instructor-insights/engaging-in-reflective-practice
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 80
+- identifier: e7b88c80-8f3d-ba09-06b3-0d04a888c8bd
+  name: To Learn a Language, Communicate
+  pageRef: /pages/instructor-insights/to-learn-a-language-communicate
+  parent: a6d45f02-3c35-8471-8e33-a3c69474b7c4
+  weight: 90
+- identifier: 5ee993d0-60f8-69d7-baf3-75dbf6b47ad4
+  name: Kursplan und Hausaufgaben
+  pageRef: /pages/kursplan-und-hausaufgaben
+  weight: 100
+- identifier: f2c7a12e-d877-5267-5e80-766a746597a6
+  name: Texte und Materialien
+  pageRef: /pages/texte-und-materialien
+  weight: 110
